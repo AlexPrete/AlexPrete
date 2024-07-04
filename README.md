@@ -14,8 +14,8 @@ Ecco con cosa mi piace programmare
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fc531b7ec44d5eb08d44dd57078a31ef6f3357bfd40ed63a86b9eab811b8b7ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"><img alt="TypeScript" src="https://camo.githubusercontent.com/fc531b7ec44d5eb08d44dd57078a31ef6f3357bfd40ed63a86b9eab811b8b7ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
   
- 
-<img target="_blank" rel="noopener noreferrer nofollow" href= "https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp&w=256"></img>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fc531b7ec44d5eb08d44dd57078a31ef6f3357bfd40ed63a86b9eab811b8b7ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
+<img target="_blank" rel="noopener noreferrer nofollow" href= "https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp&w=256"  alt="TypeScript" src="https://camo.githubusercontent.com/fc531b7ec44d5eb08d44dd57078a31ef6f3357bfd40ed63a86b9eab811b8b7ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
 
