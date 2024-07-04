@@ -29,4 +29,7 @@ Ecco con cosa mi piace programmare
 
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png">
 <img target="_blank" rel="noopener noreferrer nofollow" href= "https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png"  alt="java" src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.iconscout.com/icon/free/png-256/free-laravel-3-1175147.png?f=webp">
+<img target="_blank" rel="noopener noreferrer nofollow" href= "https://cdn.iconscout.com/icon/free/png-256/free-laravel-3-1175147.png?f=webp"  alt="java" src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-3-1175147.png?f=webp" data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
