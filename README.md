@@ -32,7 +32,6 @@ Ecco con cosa mi piace programmare
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.iconscout.com/icon/free/png-256/free-laravel-3-1175147.png?f=webp">
 <img target="_blank" rel="noopener noreferrer nofollow" href= "https://cdn.iconscout.com/icon/free/png-256/free-laravel-3-1175147.png?f=webp"  alt="laravel" src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-3-1175147.png?f=webp" data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.iconscout.com/icon/free/png-256/free-mysql-19-1174939.png">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.iconscout.com/icon/free/png-256/free-mysql-19-1174939.png">
 <img target="_blank" rel="noopener noreferrer nofollow" href= "https://cdn.iconscout.com/icon/free/png-256/free-mysql-19-1174939.png"  alt="Mysql" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-19-1174939.png" data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
